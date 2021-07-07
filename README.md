@@ -1,4 +1,4 @@
-# async_main_await
+# async Main() with await
 
 ## The async method Main is possible
 
